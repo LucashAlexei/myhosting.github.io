@@ -1,0 +1,2 @@
+# myhosting.github.io
+test
